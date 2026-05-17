@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "YiyaoYang2025/Yiyao-Yang-V1-Personal-Website",
+    "data-repo": "YiyaoYang2025/yiyaoyang.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
