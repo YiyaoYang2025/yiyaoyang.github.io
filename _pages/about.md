@@ -6,7 +6,7 @@ subtitle: Quantitative Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: columbia_yiyao_yang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
