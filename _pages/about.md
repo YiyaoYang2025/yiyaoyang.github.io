@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Embark On A Journey Through My Stories
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Quantitative Researcher
 
 profile:
   align: right
